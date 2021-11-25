@@ -1,15 +1,12 @@
 
 {% include sidebar.html %}
 
-
-#### This is my example basic resume, for people to learn how to use gitpages to create a resume for the workshop "Open CV" at the [Research Bazaar Qld Conference 2021](https://resbaz.github.io/resbaz2021qld/) . Learn [How I Made this here](https://amandamiotto.github.io/Portfolio/HowIMadeThis) .
-
 ## Education
 
 | ------------------------------------- | ------------------------------------------- | ----- |
-| Bachelor of Science (Majoring in Bioinformatics) | University of Southern Queensland          | 2003-2007 |
-| Carpentry Instructor | The Carpentries | 2015 |
-| Agile Business Analysis Foundation Course | DDLS Brisbane | 2018 |
+| PhD -  Neuromusculoskeletal modelling hip | Griffith University, Gold Coast, AUS      | 2019 - present |
+| Masters - Human movement sciences | Vrije Universiteit, Amsterdam, NL  | 2016 - 2018 |
+| Bachelors - Human movement sciences | Vrije Universiteit, Amsterdam, Nl | 2013 - 2016 |
 
 ## Employment
 
